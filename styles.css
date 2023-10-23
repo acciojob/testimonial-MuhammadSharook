@@ -1,1 +1,22 @@
 /*  your css code here. If applicable */
+.maincontainer {
+	background-color: #f5f5f5;
+	padding:20px;
+	width:1000px;
+}
+.maincontainer .header {
+/* 	font-family:Arial; */
+}
+.testimonial {
+	background-color:white;
+	padding:10px;
+	margin:20px;
+	boarder:1px solid gray;
+	border-radius:3px;
+	box-shadow:3px 3px 7px grey;
+	box-sizing:border-box;
+}
+.author {
+	font-style:italic;
+	text-align:right;
+}
